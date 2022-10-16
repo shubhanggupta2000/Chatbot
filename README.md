@@ -1,6 +1,6 @@
 # Chatbot
 
-A chatbot is a project that implements basic and simple conversations like greeting, wishing, executing command, etc.
+A chatbot is a simple project that implements basic and simple conversation starter like greeting, wishing, etc.
 
 ## Below is a sample of the program when executed
 
